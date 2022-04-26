@@ -1,0 +1,114 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 55%, rgba(0,212,255,1) 100%);
+    
+}
+
+.container {
+    width: 50%;
+    display: inline-block;
+    margin-left: 5%;
+}
+.gunTable {
+    text-align: left;
+    font-size: 1.5rem;
+}
+table,td ,tr {
+    padding: 13px;
+    margin-top: 5%;
+    margin-left: 2%;
+    color: white;
+}
+.deleteBtn{
+  background-color: rgb(93, 159, 175);
+  color: rgb(255, 255, 255);
+  border: 2px solid #fdfdfd;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.deleteBtn:hover {
+    background-color: rgb(157, 163, 160);
+}
+table{
+    padding: 10px;
+    border-collapse: collapse;
+    
+}
+tbody tr:nth-child(even) {
+    background-color: #34495e;
+}
+tbody tr:nth-child(odd) {
+    background-color: #16a085;
+}
+th{
+    background: #34495e;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+#ww2h1{
+    margin-left: 20%;
+    font-size: 4rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+tr {
+    font-size: 1.7rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container1 {
+    display: inline-block;
+    float: right;
+    justify-content: center;
+    text-align: center;
+    margin-top: 9%;
+    margin-right: 5%;
+    border-radius: 5px;
+    border: 4px solid;
+    border-radius: 5px;
+    width: 25%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    color: rgb(255, 255, 255);
+    background-image: url('newsword.jpg');
+ }
+ #healthNum {
+     font-size: 4rem;
+ }
+ #attackBtn {
+     background-color: #f44336;
+     font-size: 16px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     border: none;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     border-radius: 5px;
+     opacity: 80%;
+     cursor: pointer;
+ }
+ #attackBtn:active{
+     background-color: #6529c5;
+     transform: translateY(4px);
+ }
+ #stats{
+     padding-top: 10px;
+     font-size: 2rem;
+ }
+ .clickCont {
+     float: left;
+     padding: 10px;
+ }
+ #currentDmg {
+     padding: 10px;
+     float: right;
+ }
+ #clickCount,#clickNum {
+     font-size: 1.5rem;
+ }
+ #currentDmg {
+     float: right;
+     font-size: 1.5rem;
+ }
