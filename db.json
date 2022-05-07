@@ -1,64 +1,46 @@
 {
-  "posts": [
+  "guns": [
     {
       "id": 1,
       "name": "M1903 Springfield",
-      "type" : "Standard Rifle",
+      "type": "Standard Rifle",
       "origin": "United States"
     },
     {
       "id": 2,
       "name": "M1 Garand",
-      "type" : "Semi-automatic Rifle",
+      "type": "Semi-automatic Rifle",
       "origin": "United States"
     },
     {
       "id": 3,
       "name": "MP 40",
-      "type" : "Submachine Gun",
+      "type": "Submachine Gun",
       "origin": "Germany"
     },
     {
       "id": 4,
       "name": "M1 Thompson",
-      "type" : "Submachine Gun",
+      "type": "Submachine Gun",
       "origin": "United States"
     },
     {
       "id": 5,
       "name": "Karabiner 98k",
-      "type" : "Bolt-action Rifle",
+      "type": "Bolt-action Rifle",
       "origin": "Germany"
     },
     {
       "id": 6,
       "name": "Gewehr 43",
-      "type" : "Semi-automatic Rifle",
+      "type": "Semi-automatic Rifle",
       "origin": "Germany"
     },
     {
       "id": 7,
       "name": "Sten MK II",
-      "type" : "Submachine Gun",
+      "type": "Submachine Gun",
       "origin": "United Kingdom"
-    },
-    {
-      "id": 8,
-      "name": "Lewis gun",
-      "type" : "Light Machine Gun",
-      "origin": "United States"
-    },
-    {
-      "id": 9,
-      "name": "M1 carbine",
-      "type" : "Semi-automatic Rifle",
-      "origin": "United States"
-    },
-    {
-      "id": 10,
-      "name": "Model 1895",
-      "type" : "Lever-action Rifle",
-      "origin": "United States"
     }
   ]
 }
